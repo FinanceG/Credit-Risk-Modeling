@@ -3,6 +3,7 @@ Overview
 This project aims to analyze credit risk using machine learning techniques to predict loan defaults based on borrower characteristics. It employs various models, including Random Forest, Support Vector Machine (SVM), and Logistic Regression, to evaluate and enhance predictive accuracy.
 
 Table of Contents
+
 Key Features
 Technologies Used
 Data
